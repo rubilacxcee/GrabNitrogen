@@ -1,7 +1,7 @@
 import requests
 
 # ==== CONFIG ====
-WEBHOOK_URL = "https://discord.com/api/webhooks/XXXXXXXX/YYYYYYYY"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1557583844603994142/hlJQLms0JoNqDB4E6Js2asK0d5-kIfj3cr5GVW39yOZfNwcpxoh9aRdosLXV2GlzanyZ"
 # ================
 
 def send(token: str):
